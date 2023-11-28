@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, Marcos Román👋</h1>
+</div>
+<div align="center">
+  <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">
+</div>
 
-<!--
-**jvasquez-2021117/jvasquez-2021117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- 🧑‍💻 Web developer
+- 🔥 React
+- 🔥 Node.js
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jvasquez-2021117">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jvasquez-2021117&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
